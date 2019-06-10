@@ -1,14 +1,9 @@
-# Firebase Codelab: FriendlyChat
+# Friendly Chat
+* Chat room connecting to Firebase database
 
-This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
-code for Android,. To get started open the codelab instructions:
-
- - [Firebase Android Codelab](https://codelabs.developers.google.com/codelabs/firebase-android/).
-
-
-## How to make contributions?
-Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
-## License
-See [LICENSE](LICENSE)
+# My First Application (Count, Toast, Random)
+* Android app I developed following Google Education
+* Has 3 buttons
+  * Count: Increment number on screen
+  * Toast: Display a toast notification
+  * Random: Displays a random number within a range
