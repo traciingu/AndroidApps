@@ -1,4 +1,4 @@
-#Friendly Chat
+# Friendly Chat
 * Simple chat that connects to Firebase
 * Authenticates with Google login
 * Can upload images
