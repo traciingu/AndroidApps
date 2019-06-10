@@ -1,3 +1,8 @@
+#Friendly Chat
+* Simple chat that connects to Firebase
+* Authenticates with Google login
+* Can upload images
+
 # My First Application (Count, Toast, Random)
 * Android app I developed following Google Education
 * Has 3 buttons
